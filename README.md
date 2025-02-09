@@ -5,16 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 
-<h1 align="center">Hi 👋, I'm Samridhi</h1>
-<h3 align="center">I am a highly motivated and results-oriented individual with a strong passion for technology. I am currently in my of Bachelor's of Technology in CSE.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samridhiiijain&label=Profile%20views&color=0e75b6&style=flat" alt="samridhiiijain" /> </p>
 
-- 📝I'm currently working on **Payment Integrated Ecommerce Website**
+- 📝I'm currently working on **Online Reading Platform**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Frontend and Backend Development with Django**
+- 💬 Ask me about **Frontend and Backend Development**
 
 - 📫 How to reach me **jsamridhi66@gmail.com**
 
